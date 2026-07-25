@@ -2,6 +2,11 @@
 
 <br />
 
+> [!CAUTION]
+> This website is an independent research project. Company names, trademarks, job postings, and all other referenced materials remain the property of their respective owners. They are referenced solely for research, educational, and informational purposes. This project is not affiliated with, endorsed by, or sponsored by any employer, certification provider, recruitment platform, or other organization mentioned on this website.
+
+<br />
+
 ## How was the data collected?
 
 All data published on this website was collected **entirely through manual research**. No web scraping, automated scripts, bots, artificial intelligence, or other automated collection methods were used at any stage of the process.
