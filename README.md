@@ -37,7 +37,7 @@ See which cybersecurity certifications employers actually request with this evid
     <td>
       <div align="center"><strong>Forms</strong></div>
       - <a href="https://forms.gle/LKMcAsvN3Ucs7Mwt5">Submit request</a><br>
-      - <a href="">TBD</a><br>
+      - <a href="https://github.com/Dragkob/HR-Certification-Data/blob/main/FAQ/FAQ.md">FAQ</a><br>
     </td>
   </tr>
 </table>
