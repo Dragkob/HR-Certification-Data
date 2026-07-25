@@ -1,4 +1,11 @@
-<img width="1672" height="541" alt="image" src="https://github.com/user-attachments/assets/4ed8fc25-6caf-4be2-a252-dcd242c7724c" />
+<a href="https://dragkob.com/hr-certification-data/">
+  <img
+    width="1672"
+    height="541"
+    alt="HR Certification Data"
+    src="https://github.com/user-attachments/assets/4ed8fc25-6caf-4be2-a252-dcd242c7724c"
+  />
+</a>
 
 # 
 <h2 align="center"><p>📊 HR Certification Data 📊</p></h2>
