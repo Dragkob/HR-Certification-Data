@@ -12,6 +12,9 @@
 
 See which cybersecurity certifications employers actually request with this evidence-driven project, developed by Dragkob. Built from real job postings and updated continuously so your certification choices reflect hiring demand, not guesswork.
 
+> [!CAUTION]
+> This website is an independent research project. Company names, trademarks, job postings, and all other referenced materials remain the property of their respective owners. They are referenced solely for research, educational, and informational purposes. This project is not affiliated with, endorsed by, or sponsored by any employer, certification provider, recruitment platform, or other organization mentioned on this website.
+
 <table>
   <tr>
     <th align="center">🧑‍💻 Devs & Contributors</th>
