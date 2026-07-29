@@ -43,7 +43,7 @@ This website is an independent research project designed to analyze cybersecurit
 
 ## How often is the data updated?
 
-The dataset is updated regularly as new job postings are reviewed and existing information is verified. Because all research is performed manually, updates prioritize accuracy and consistency over speed. It is a very time0heavy process, do do not expect an update each week.
+The dataset is updated regularly as new job postings are reviewed and existing information is verified. Because all research is performed manually, updates prioritize accuracy and consistency over speed. It is a very time-heavy process, do not expect an update each week.
 
 <br />
 
